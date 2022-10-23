@@ -5,7 +5,7 @@ Tämä Foundry VTT -moduuli sisältää Helsingin Pöytäroolipelaajat Ry:n (Hep
 ## Moduulin asennus Foundry VTT:ssä
 
 - Mene moduulien asennussivulle (_Configuration and Setup -> Add-on Modules -> Install Module_)
-- Asenna moduuli osoitteesta (_Manifest URL_): `https://github.com/japatsu/fvtt-hepro-random/releases/download/latest/module.json`
+- Asenna moduuli osoitteesta (_Manifest URL_): `https://github.com/japatsu/fvtt-hepro-random/releases/latest/download/module.json`
 - Ota moduuli käyttöön pelimaailmassasi (_Game Settings -> Manage Modules_)
 - Satunnaistaulukot löydät tämän jälkeen _Compendium Packs_ -välilehdeltä
 
